@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1560067114 source:c:\users\rudy\desktop\coding\c++\loops\cycle.cpp
+	"Cycle.h"
+
+1560067076 c:\users\rudy\desktop\coding\c++\loops\cycle.h
+	"helper.h"
+
+1560077005 c:\users\rudy\desktop\coding\c++\loops\helper.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<vector>
+	<stdlib.h>
+	<omp.h>
+	<algorithm>
+	<random>
+	<ctime>
+
+1559805604 source:c:\users\rudy\desktop\coding\c++\loops\gen_loops.cpp
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+	"Ising.h"
+
+1560071411 c:\users\rudy\desktop\coding\c++\loops\ising.h
+	"Cycle.h"
+
+1560057547 source:c:\users\rudy\desktop\coding\c++\loops\helper.cpp
+	"helper.h"
+
+1560076546 source:c:\users\rudy\desktop\coding\c++\loops\ising.cpp
+	"Ising.h"
+
+1560078016 source:c:\users\rudy\desktop\coding\c++\loops\main.cpp
+	"subIsing.h"
+
+1560066915 c:\users\rudy\desktop\coding\c++\loops\subising.h
+	"Ising.h"
+
+1560076430 source:c:\users\rudy\desktop\coding\c++\loops\subising.cpp
+	"subIsing.h"
+
